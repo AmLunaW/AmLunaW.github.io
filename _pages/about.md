@@ -5,7 +5,7 @@ permalink: /
 subtitle: '<span style="font-size: 1.2rem;">Assistant Professor, Systems & Industrial Engineering, The University of Arizona</span>'
 
 profile:
-  align: left
+  align: right
   image: yue-wang_SIE.png
   image_circular: false # crops the image to make it circular
   more_info: >
