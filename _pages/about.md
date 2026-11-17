@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="font-size: 1.2rem;">Assistant Professor, Systems & Industrial Engineering, The University of Arizona</span>.
+subtitle: '<span style="font-size: 1.2rem;">Assistant Professor, Systems & Industrial Engineering, The University of Arizona</span>'
 
 profile:
   align: left
