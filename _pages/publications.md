@@ -34,7 +34,7 @@ nav_order: 2
   }
 
   /* Badge text colors */
-  .abbr .badge[style*="#c506cc"] div { color: #ffffff !important; }  /* LSC */
-  .abbr .badge[style*="#22bda1"] div { color: #ffffff !important; }  /* AgriFood */
-  .abbr .badge[style*="#b5651d"] div { color: #ffffff !important; }  /* RSTrans */
+  .abbr .badge[style*="#c506cc"] div { color: white !important; }  /* LSC */
+  .abbr .badge[style*="#22bda1"] div { color: white !important; }  /* AgriFood */
+  .abbr .badge[style*="#b5651d"] div { color: white !important; }  /* RSTrans */
 </style>
