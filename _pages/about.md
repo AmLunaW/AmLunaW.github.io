@@ -9,8 +9,8 @@ profile:
   image: yue-wang_SIE.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📧 ywang23 [at] arizona [dot] edu
-    <p>🏢 ENGR Bldg. Room 127</p>
+    <p>ywang23 [at] arizona [dot] edu
+    <p>ENGR Bldg. Room 127</p>
     <p>1127 E. James E. Rogers Way</p>
     <p>Tucson, AZ 85721</p>
 
