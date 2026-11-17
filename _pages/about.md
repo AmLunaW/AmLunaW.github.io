@@ -40,3 +40,12 @@ Prior to joining the University of Arizona, I received my Ph.D. in Industrial En
 <!--
 **Prospective students:** I am [actively recruiting] Ph.D. students interested in optimization, supply chains, and transportation systems. Please email me with your CV and a brief description of your research interests.
 -->
+
+<style>
+  .publications ol.bibliography li .author em {
+    border-bottom: none !important;
+    text-decoration: none !important;
+    font-style: normal;
+    font-weight: bold;
+  }
+</style>
