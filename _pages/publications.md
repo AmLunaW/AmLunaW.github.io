@@ -11,7 +11,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <p>
   <span class="badge" style="background-color: #c506cc; color: white;">LSC</span> Logistics & Supply Chain Management;
-  <span class="badge" style="background-color: #22bda1; color: black;">AgriFood</span> Sustainable Food and Agricultural Systems;
+  <span class="badge" style="background-color: #22bda1; color: white;">AgriFood</span> Sustainable Food and Agricultural Systems;
   <span class="badge" style="background-color: #b5651d; color: white;">RSTrans</span> Resilient & Safe Transportation Infrastructure.
 </p>
 <!-- Bibsearch Feature -->
