@@ -25,10 +25,16 @@ nav_order: 2
 </div>
 
 <style>
+  /* Bold my name instead of underline */
   .publications ol.bibliography li .author em {
     border-bottom: none !important;
     text-decoration: none !important;
     font-style: normal;
     font-weight: bold;
   }
+
+  /* Badge text colors */
+  .abbr .badge[style*="#c506cc"] { color: white !important; }  /* LSC */
+  .abbr .badge[style*="#22bda1"] { color: white !important; }  /* AgriFood */
+  .abbr .badge[style*="#b5651d"] { color: white !important; }  /* RSTrans */
 </style>
