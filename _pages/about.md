@@ -2,14 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://sie.engineering.arizona.edu/'>Systems & Industrial Engineering</a>. The University of Arizona
+subtitle: Assistant Professor, <a href='https://sie.engineering.arizona.edu/'>Systems & Industrial Engineering</a>,
+<a href='https://www.arizona.edu/'>The University of Arizona</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Engineering Building 127</p>
+    <p>ENGR Bldg RM 127</p>
     <p>1127 E. James E. Rogers Way</p>
     <p>Tucson, AZ 85721</p>
 
@@ -22,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
