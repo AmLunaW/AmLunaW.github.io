@@ -6,7 +6,7 @@ subtitle: <span style="font-size: 1.2rem;">Assistant Professor, Systems & Indust
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: yue-wang_SIE.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ENGR Bldg. Room 127</p>
