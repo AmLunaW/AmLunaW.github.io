@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, <a href='https://sie.engineering.arizona.edu/'>Systems & Industrial Engineering</a>,
-<a href='https://www.arizona.edu/'>The University of Arizona</a>.
+subtitle: Assistant Professor, <a href='https://sie.engineering.arizona.edu/'>Systems & Industrial Engineering</a>, <a href='https://www.arizona.edu/'>The University of Arizona</a>.
 
 profile:
   align: left
