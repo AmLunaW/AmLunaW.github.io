@@ -35,7 +35,6 @@ I am an Assistant Professor in the [Department of Systems and Industrial Enginee
 
 Prior to joining the University of Arizona, I received my Ph.D. in Industrial Engineering from the [Wm Michael Barnes '64 Department of Industrial and Systems Engineering](https://engineering.tamu.edu/industrial/index.html) at [Texas A&M University](https://www.tamu.edu/index.html) under the supervision of Prof. [Joseph Geunes](https://engineering.tamu.edu/industrial/profiles/geunes-joe.html) and Prof. [Xiaofeng Nie](https://scholar.google.com/citations?user=2cSk8Y4AAAAJ&hl=en). I also hold both an M.S. and a B.S. in Transportation from Southeast University, China.
 
-I teach Production Systems Analysis (SIE 462/562) and Supply Chain & Logistics. I received my Ph.D. in [field] from [institution].
 
 <!--
 **Prospective students:** I am [actively recruiting] Ph.D. students interested in optimization, supply chains, and transportation systems. Please email me with your CV and a brief description of your research interests.
